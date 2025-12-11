@@ -1,16 +1,39 @@
-# React + Vite
+# Arcane Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive website about the **Arcane** TV series.  
+This project showcases information related to the show, including characters, story, visuals, and themed sections inspired by the Arcane universe.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Built With
 
-## React Compiler
+This website was built using:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+GSAP
+React.js
+Tailwind CSS
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation & Usage
+
+To run this project locally:
+
+```bash
+
+Clone the repository
+
+
+git clone https://github.com/AhmadReza16/Arcane-website.git
+
+cd Arcane-website
+
+# Install dependencies
+npm install
+
+# or
+yarn install
+
+# Run the development server
+npm run dev
+```
